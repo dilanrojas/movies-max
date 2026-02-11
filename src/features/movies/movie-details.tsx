@@ -37,9 +37,9 @@ export default function MovieDetails() {
   }
 
   return (
-    <div className="relative min-h-screen bg-black text-white">
+    <div className="relative min-h-screen bg-black text-white pb-30">
       {/* Cinematic Backdrop */}
-      <div className="absolute inset-0 h-[60vh] overflow-hidden">
+      <div className="absolute inset-0 h-[60vh] overflow-hidden mb-10">
         <img
           src={movie.image}
           alt=""
