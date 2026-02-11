@@ -11,7 +11,7 @@ export default function MoviesList() {
     getMovies()
       .then(setMovies)
       .finally(() => setLoading(false))
-  }, []);
+  }, [movies]);
 
   if (loading) {
     return <p>Loading...</p>
