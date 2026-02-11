@@ -1,0 +1,74 @@
+[
+  {
+    "id": "dune-part-two",
+    "title": "Dune: Part Two",
+    "genre": "Sci-Fi",
+    "image": "https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg"
+  },
+  {
+    "id": "deadpool-wolverine",
+    "title": "Deadpool & Wolverine",
+    "genre": "Action",
+    "image": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
+  },
+  {
+    "id": "inside-out-2",
+    "title": "Inside Out 2",
+    "genre": "Animation",
+    "image": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+  },
+  {
+    "id": "oppenheimer",
+    "title": "Oppenheimer",
+    "genre": "Drama",
+    "image": "https://image.tmdb.org/t/p/w500/ptpr0kGAckfQkJeJIt8st5dglvd.jpg"
+  },
+  {
+    "id": "kung-fu-panda-4",
+    "title": "Kung Fu Panda 4",
+    "genre": "Animation",
+    "image": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
+  },
+  {
+    "id": "godzilla-x-kong",
+    "title": "Godzilla x Kong: The New Empire",
+    "genre": "Action",
+    "image": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg"
+  },
+  {
+    "id": "the-batman-2",
+    "title": "The Batman",
+    "genre": "Action",
+    "image": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+  },
+  {
+    "id": "mission-impossible-dead-reckoning",
+    "title": "Mission: Impossible – Dead Reckoning",
+    "genre": "Action",
+    "image": "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg"
+  },
+  {
+    "id": "the-marvels",
+    "title": "The Marvels",
+    "genre": "Action",
+    "image": "https://image.tmdb.org/t/p/w500/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg"
+  },
+  {
+    "id": "barbie",
+    "title": "Barbie",
+    "genre": "Comedy",
+    "image": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+  },
+  {
+    "id": "wonka",
+    "title": "Wonka",
+    "genre": "Fantasy",
+    "image": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg"
+  },
+  {
+    "id": "civil-war-2024",
+    "title": "Civil War",
+    "genre": "Thriller",
+    "image": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg"
+  }
+]
